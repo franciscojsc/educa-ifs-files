@@ -1,0 +1,6 @@
+{
+  "question": "{{redirectMessage@inputContent}}",
+  "top": 3,
+  "isTest": true,
+  "scoreThreshold": 50
+}
